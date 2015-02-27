@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Robot\Kod\Memory.cs">
+    <Files>
+      <File FileName="Assets\Robot\Kod\Ultrasound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Robot\Kod\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Robot\Kod\Memory.cs" Line="29" Column="1" />
+      <File FileName="Assets\Robot\Kod\Stepmotor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Robot\Kod\Map.cs" Line="1" Column="1" />
+      <File FileName="Assets\Debug\Source\Debugdata.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
